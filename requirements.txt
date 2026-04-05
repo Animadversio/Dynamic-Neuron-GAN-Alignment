@@ -1,0 +1,23 @@
+# Core scientific stack
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+
+# Deep learning
+torch
+torchvision
+
+# GAN models (auto-download weights on first use)
+pytorch_pretrained_biggan
+
+# Neural data loading (for source_data_export notebooks only)
+mat73
+easydict
+
+# Utilities
+tqdm
+requests

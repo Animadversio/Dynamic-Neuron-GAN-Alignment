@@ -160,3 +160,22 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# Project-specific
+NatNeuro2026-text.txt
+*.docx
+
+# Source data (large files, distributed separately via OSF/GDrive/Git LFS)
+source_data/
+
+# Rendered output figures
+output_figures/
+figures_out/
+
+# Neural recording data files
+*.mat
+*.h5
+
+# OS
+.DS_Store
+Thumbs.db
